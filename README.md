@@ -36,7 +36,6 @@ Python is especially popular in analytics because it:
 Handles large datasets efficiently
 
 Integrates well with databases, cloud platforms, and BI tools 
-https://drive.google.com/file/d/1ANmCjeLvJQwtQvbV4YVOrlaPi6TCK85G/view
 
 Is widely used in data science, automation, and reporting workflows
 
